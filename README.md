@@ -18,9 +18,9 @@
 - **Libraries & Tools:** Docker, NumPy, Pandas, Matplotlib, Seaborn  
 - **Certifications:** Responsive Web Design (freeCodeCamp)  
 ---
-### Achievement
-![Your Badge]("https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png")
+## My Certifications
 
+[![My Credly Badge](https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/d94613c2-3632-4ea8-a32f-d7a5d5b122a6/public_url)
 ---
 ## 📫 Let's Connect!
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sarthak-rana/(#)  
