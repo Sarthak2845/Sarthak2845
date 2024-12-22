@@ -2,7 +2,7 @@
 
 🚀 **Engineer | Aspiring Developer | Tech Enthusiast**  
 🌟 Passionate about coding, innovation, and building impactful projects.  
-
+---
 ## 📚 About Me
 
 - 🎓 **Engineering Student** (Graduating in 2027)  
@@ -10,14 +10,18 @@
 - 🌍 Learning **German** 
 - 🛠️ Working on projects related to **Web-development, AR/VR, and computer vision**  
 - 🤝 Open to **collaborating on open-source projects**  
-
+---
 ## 🔧 Skills
 
 - **Programming:** C++, Python, JavaScript  
 - **Web Development:** HTML, CSS, JavaScript, React (In Progress)  
 - **Libraries & Tools:** Docker, NumPy, Pandas, Matplotlib, Seaborn  
 - **Certifications:** Responsive Web Design (freeCodeCamp)  
+---
+### Achievement
+![Your Badge]("https://www.credly.com/badges/d94613c2-3632-4ea8-a32f-d7a5d5b122a6/public_url")
 
+---
 ## 📫 Let's Connect!
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sarthak-rana/(#)  
 <!---
