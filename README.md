@@ -24,6 +24,10 @@
 
 [![My Credly Badge](https://images.credly.com/size/220x220/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png)](https://www.credly.com/badges/d26acddd-57b6-4a5e-b2c9-b620834c3b62/public_url)
 
+<a href="https://api.badgr.io/public/assertions/g7PCzv4MQ-Ohjj03JodYGg">
+  <img src="https://api.badgr.io/public/assertions/g7PCzv4MQ-Ohjj03JodYGg/image" width="300px" />
+</a>
+
 
 ---
 ## 📫 Let's Connect!
