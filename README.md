@@ -1,3 +1,5 @@
+[![An image of @sarthak2845's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthak2845)](https://holopin.io/@sarthak2845)
+
 # 👋 Hi, I'm Sarthak Rana!
 
 <div align="center">
