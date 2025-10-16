@@ -62,29 +62,17 @@
 
 ## 🌟 Featured Projects
 
-### 🧠 [Mind Metrics](https://github.com/Sarthak2845/mind-metrics) - Smart Stress Detection
+### 🧠 [Mind Metrics](https://github.com/Sarthak2845/MindMetrics) - Smart Stress Detection
 **Real-time stress analysis using HRV data + AI questionnaires**
 - 🔗 **Tech:** React, Google Fit API, OAuth2, Tailwind CSS
 - 🎯 **Impact:** 85% correlation between subjective stress & physiological data
 - ⚡ **Challenge:** Complex data fusion from multiple sources
 
-### 🌌 [StargazeX](https://github.com/Sarthak2845/stargazex) - Astronomy Community Platform
+### 🌌 [StargazeX](https://github.com/Sarthak2845/StargazeX) - Astronomy Community Platform
 **Full-stack platform connecting astronomy enthusiasts worldwide**
 - 🔗 **Tech:** React, Firebase, AI integration, Framer Motion
 - 🎯 **Features:** Telescope sharing, solar flare predictions, event management
 - ⚡ **Innovation:** AI-powered space weather alerts
-
-### 🌍 [Atlasify](https://github.com/Sarthak2845/atlasify) - Interactive Country Explorer
-**Dynamic web app with live country data visualization**
-- 🔗 **Tech:** Vanilla JS, REST Countries API, responsive design
-- 🎯 **Focus:** Optimized API calls, edge case handling, smooth UX
-- ⚡ **Learning:** Modern JS practices, asynchronous programming
-
-### 🌤️ [Atmos Monitor](https://github.com/Sarthak2845/atmos-monitor) - Weather Tracker
-**Real-time weather app with location-based forecasts**
-- 🔗 **Tech:** React, OpenWeather API, geolocation
-- 🎯 **Features:** Live updates, location search, responsive design
-- ⚡ **Skills:** API reliability, error handling, component architecture
 
 ---
 
@@ -108,8 +96,10 @@
 [![Responsive Web Design](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/d94613c2-3632-4ea8-a32f-d7a5d5b122a6/public_url)
 [![JavaScript Essentials](https://images.credly.com/size/110x110/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png)](https://www.credly.com/badges/d26acddd-57b6-4a5e-b2c9-b620834c3b62/public_url)
 [![Front End Development](https://api.badgr.io/public/assertions/g7PCzv4MQ-Ohjj03JodYGg/image)](https://api.badgr.io/public/assertions/g7PCzv4MQ-Ohjj03JodYGg)
+[![Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate]([https://api.badgr.io/public/assertions/g7PCzv4MQ-Ohjj03JodYGg/image](https://images.credly.com/images/de926dfb-3100-4440-a227-29b954dd45b0/OCI25AICFAV1_cached_image_20251016-32-3v8ony.png))](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D712D7464D751E7F41E014602F60F763C244C9252AD9FF1C82D7FCDAA8229411)
 
-**freeCodeCamp** • **Cisco** • **Postman Academy**
+
+**freeCodeCamp** • **Cisco** • **Postman Academy** • **Oracle**
 
 </div>
 
