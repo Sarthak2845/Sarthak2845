@@ -1,25 +1,43 @@
-[![An image of @sarthak2845's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthak2845)](https://holopin.io/@sarthak2845)
-
-# 👋 Hi, I'm Sarthak Rana!
-
+<!-- ===== HEADER ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0E1033,50:1D1450,100:3B1F7A&text=Sarthak%20Rana&fontSize=70&fontColor=F6F4FF&stroke=6EE7D2&strokeWidth=1&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20Automation%20Engineer%20%E2%80%A2%20Health-Tech&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Sarthak Rana" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-rana-897519217/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsarthak2845@gmail.com)
+[![Holopin](https://img.shields.io/badge/Holopin-1F1F1F?style=for-the-badge&logo=pinboard&logoColor=white)](https://holopin.io/@sarthak2845)
+<img src="https://komarev.com/ghpvc/?username=Sarthak2845&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-🎓 **Computer Engineering Student** at Dr. D.Y Patil Institute Of Technology, Pune  
-📅 **Graduating:** 2027 | **CGPA:** 9.24/10  
-💡 **Mission:** Building intelligent systems that solve real-world problems  
-🌟 **Focus Areas:** Full-Stack Development • AI/ML • Healthcare Tech  
+```js
+const sarthak = {
+  role:        "Computer Engineering Student @ DIT Pune",
+  graduating:  2027,
+  cgpa:        9.24,
+  currently:   "Automation Intern @ Bajaj Finserv Health",
+  workingOn:   ["Backend & frontend automation", "E2E testing"],
+  building:    ["BakeOps", "Inventory Reconciliation Engine"],
+  exploring:   ["Reinforcement Learning", "Computer Vision"],
+  learning:    "German 🇩🇪",
+  askMeAbout:  ["React", "APIs", "Health-tech", "Test automation"],
+};
+```
 
-- 🔭 Currently working on **Mind Metrics** - AI-powered stress detection using HRV data
-- 🌱 Exploring **reinforcement learning** and **computer vision**
-- 🌍 Learning **German** (because why not? 🇩🇪)
-- 💬 Ask me about **React, APIs, or building health-tech solutions**
-- ⚡ Fun fact: I've built 4+ production apps while maintaining a 9.24 CGPA
+> ⚡ Built **4+ production apps** while keeping a **9.24 CGPA**.
+
+---
+
+## 💼 Experience
+
+**Automation Intern** · Bajaj Finserv Health · *Jul 2026 – Dec 2026*<br/>
+Backend and frontend test automation, end-to-end testing.
 
 ---
 
@@ -27,34 +45,27 @@
 
 <div align="center">
 
-### Programming Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" />
 
-### Frontend Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="60" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="60" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="Tailwind CSS" />
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
 
-### Backend & Database
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="60" alt="Express.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="60" alt="Firebase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="60" alt="SQL" />
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,supabase,mysql,postgres&theme=dark" />
 
-### Tools & Platforms
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="60" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="60" alt="Postman" />
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" />
 
-### Data Science & Analysis
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="60" alt="NumPy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="60" alt="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="60" alt="Matplotlib" />
+**Data Science**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
 
 </div>
 
@@ -62,51 +73,40 @@
 
 ## 🌟 Featured Projects
 
-### 🧠 [Mind Metrics](https://github.com/Sarthak2845/MindMetrics) - Smart Stress Detection
-**Real-time stress analysis using HRV data + AI questionnaires**
-- 🔗 **Tech:** React, Google Fit API, OAuth2, Tailwind CSS
-- 🎯 **Impact:** 85% correlation between subjective stress & physiological data
-- ⚡ **Challenge:** Complex data fusion from multiple sources
-
-### 🌌 [StargazeX](https://github.com/Sarthak2845/StargazeX) - Astronomy Community Platform
-**Full-stack platform connecting astronomy enthusiasts worldwide**
-- 🔗 **Tech:** React, Firebase, AI integration, Framer Motion
-- 🎯 **Features:** Telescope sharing, solar flare predictions, event management
-- ⚡ **Innovation:** AI-powered space weather alerts
+| Project | Description | Tech |
+|---|---|---|
+| [**Mind Metrics**](https://github.com/Sarthak2845/MindMetrics) | Stress detection using HRV data | React, Google Fit API |
+| [**StargazeX**](https://github.com/Sarthak2845/StargazeX) | Astronomy community platform | React, Firebase |
+| **BakeOps** *(in progress)* | SaaS for home-based businesses | Next.js, NestJS, Supabase |
+| **Inventory Reconciliation Engine** *(in progress)* | Multi-channel stock sync | Event sourcing |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarthak2845&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak2845&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak2845&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarthak2845&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak2845&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak2845&theme=tokyonight&hide_border=true" />
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-rana-897519217/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsarthak2845@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarthak2845)
-
-**📱 Phone:** +91 8983070416 • **📍 Location:** Pune, India
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak2845&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
+## 🏆 Holopin Badges
+
+<a href="https://holopin.io/@sarthak2845"><img src="https://holopin.me/sarthak2845" alt="Sarthak's Holopin badges" /></a>
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarthak2845&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  **⭐ If you find my work interesting, consider giving my repos a star!**
-  
-  *"Building the future, one commit at a time"* ✨
+
+### ⭐ If you like my work, drop a star on my repos!
+
+*"Building the future, one commit at a time"* ✨
+
 </div>
